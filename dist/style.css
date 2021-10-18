@@ -25,7 +25,7 @@ a {
 
 section {
   height: 100vh;
-  padding: 60px 23px;
+  padding: 20px 23px;
   background-image: url("../images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
   background-size: contain;
@@ -33,6 +33,7 @@ section {
 }
 
 .card {
+  transform: scale(0.88);
   width: 385px;
   height: auto;
   background-color: #ffff;
